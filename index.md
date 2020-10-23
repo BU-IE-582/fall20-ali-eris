@@ -1,3 +1,3 @@
 # Example Progress Journal 
-## Week 
+## Week 0 Homework_0 
 [Here](files/example_homework_0.html) is my 5 interesting R examples 
