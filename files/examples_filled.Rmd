@@ -1,0 +1,30 @@
+---
+title: "Interesting R Examples"
+author: "Ali Eris - IE582 - Fall 2020"
+---
+```{r,echo=FALSE,results="hide"}
+library(knitr)
+opts_chunk$set(tidy.opts=list(width.cutoff=60),tidy=TRUE)
+```
+
+1. [Exploring Survival on the Titanic](https://www.kaggle.com/mrisdal/exploring-survival-on-the-titanic)
+
+    This example is important because it is an R Notebook on Titanic data set. Titanic is considered as one of the Data Science 101 data set and this notebook provides a good exploratory data analysis. It is also a Kaggle Kernel, which is a very good source for this kind of example R codes. The notebook also covers feature engineering, missing data imputation and modeling.
+
+2. [Exploring Aviation Accidents](https://www.kaggle.com/donyoe/exploring-aviation-accidents)
+
+    Generally, a preliminary report is available online within a few days of an accident. Factual information is added when available, and when the investigation is completed, the preliminary report is replaced with a final description of the accident and its probable cause. That's why this example is interesting and comprehensive.
+
+3. [Coronavirus Analysis](https://www.kaggle.com/peymankor/coronavirus-analysis)
+
+    As a trended topic CoronaVirus is mostly known and its impacts are really severe. Although it is common and known topic, This example is good for begining to understand concepts in R and in Data Science.
+
+4. [Education, Languages and Salary](https://www.kaggle.com/kailex/education-languages-and-salary/code)
+
+    This is a comparative analysis of kagglers’ formal education, favourite languages and wages based on the 2019 Kaggle ML & DS Survey. Therefore, it is a guiding analysis for deciding whether or not to be a kaggler.
+    
+5. [Global Warming visualisation](https://www.kaggle.com/pjmcintyre/global-warming-visualisation)
+
+    This is another trended topic nowadays, especialy for doomsayers. This can be seen as ordinary but it is really motivating to see what kind of things can be done via R. In addition to see relativly anormous change in climate from the late of 20th century is much scary.
+
+
